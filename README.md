@@ -371,7 +371,9 @@ print("Output: ", l)
 
 <img width="1132" height="80" alt="image" src="https://github.com/user-attachments/assets/0a452586-68fb-4d71-a79e-c5ec64070df7" />
 
-🤝 Contributing
+🤝 **Contributing**
+
 This is an open project to help beginners learn Python through practical examples.
+
 Feel free to fork the repository, submit pull requests with new exercises, or suggest improvements.
 
